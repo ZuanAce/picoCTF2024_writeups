@@ -1,4 +1,4 @@
-# 🚀 Welcome to my picoCTF 2024 Writeups Repository! 🚀
+# 🚀 Welcome to my picoCTF 2024 Writeups Repository! 
 
 In this repository, you'll find detailed writeups and solutions for challenges from picoCTF 2024 that my teammate and I worked on together during the competition. picoCTF is a renowned cybersecurity competition that offers a diverse range of challenges covering various topics such as cryptography, reverse engineering, web exploitation, forensics, and more.
 
